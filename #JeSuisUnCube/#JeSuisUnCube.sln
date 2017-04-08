@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "#JeSuisUnCube", "#JeSuisUnCube.csproj", "{FB610836-11B0-B5BA-FDF3-6E181228104A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "#JeSuisUnCube.Editor", "#JeSuisUnCube.Editor.csproj", "{8CAFF8A1-2804-A109-36D8-A653A0C099E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB610836-11B0-B5BA-FDF3-6E181228104A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB610836-11B0-B5BA-FDF3-6E181228104A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB610836-11B0-B5BA-FDF3-6E181228104A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB610836-11B0-B5BA-FDF3-6E181228104A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CAFF8A1-2804-A109-36D8-A653A0C099E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAFF8A1-2804-A109-36D8-A653A0C099E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAFF8A1-2804-A109-36D8-A653A0C099E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAFF8A1-2804-A109-36D8-A653A0C099E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
